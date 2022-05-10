@@ -1,0 +1,49 @@
+
+
+@keyframes toTop {
+    0% {
+        top: 0;
+    }
+    50% {
+        top: -1rem;
+    }
+    100% {
+        top: 0;
+    }
+}
+
+@keyframes fly {
+    0% {
+        top: 0;
+    }
+    10% {
+        top: -3rem;
+    }
+    20% {
+        top: 0;
+    }
+    30% {
+        top: -3rem;
+    }
+    40% {
+        top: 0;
+    }
+    50% {
+        top: -3rem;
+    }
+    60% {
+        top: 0;
+    }
+    70% {
+        top: -3rem;
+    }
+    80% {
+        top: 0;
+    }
+    90% {
+        top: -3rem;
+    }
+    100% {
+        top: 0;
+    }
+}
